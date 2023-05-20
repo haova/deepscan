@@ -1,0 +1,26 @@
+{
+  "name": "deepscan",
+  "version": "1.0.0",
+  "description": "A drive scanner to sync your data.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haova/deepscan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haova/deepscan/issues"
+  },
+  "homepage": "https://github.com/haova/deepscan#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "ramda": "^0.29.0",
+    "rimraf": "^5.0.1"
+  }
+}
